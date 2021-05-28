@@ -1,0 +1,83 @@
+
+gcd,lcm
+/******************************************************************************
+
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int n1,n2,gcd=0,lcm;
+		System.out.println("enter two numbers");
+		n1=sc.nextInt();
+		n2=sc.nextInt();
+		for(int i=1;i<=n1 && i<=n2;++i)
+		{
+		    if(n1%i==0 &&n2%i==0)
+		    {
+		        gcd=i;
+		    }
+		}
+		lcm=(n1*n2)/gcd;
+		System.out.println("lcm is "+lcm);
+	}
+}
+
+
+prime numbers
+
+
+/******************************************************************************
+
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int n1,c=0;
+		System.out.println("enter number");
+		n1=sc.nextInt();
+		for(int i=2;i<=n1;i++)
+		{
+		    if(n1%i==0)
+		    c++;
+		}
+		if(c==1)
+		System.out.println(n1 +" is prime number");
+		else
+		System.out.println(n1+" is not a prime number");
+	}
+}
+fibonacci
+
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int a=0,b=1,c;
+		int n=sc.nextInt();
+		for(int i=1;i<n;i++)
+		{
+		    System.out.print(a+" ");
+		    c=a+b;
+		    a=b;
+		    b=c;
+		}
+		
+	}
+}
+
+
+
