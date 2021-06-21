@@ -1,0 +1,6 @@
+2021-06-21 19:33:14,706 [1] INFO Assignment_one.Program - Employee Details added successfully
+2021-06-21 19:33:14,726 [1] INFO Assignment_one.Program - Project Manager and Project assigned to Employee
+2021-06-21 19:33:14,727 [1] DEBUG Assignment_one.Program - This ia a debug log
+2021-06-21 19:33:14,728 [1] ERROR Assignment_one.Program - This is a an error log
+2021-06-21 19:33:14,729 [1] WARN Assignment_one.Program - This is a Waning log
+2021-06-21 19:33:14,729 [1] INFO Assignment_one.Program - This just for Information

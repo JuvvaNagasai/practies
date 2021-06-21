@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSxelcrkV8xQxVMnQB+Esye57/N3V38PQT50rGlvKabqH4QE0QnyaT049Ea3rqWEL9qciIfESQQkIkVGSb7kgA==",
+  "success": true,
+  "projectFilePath": "D:\\cshorp\\Assignment_one\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JUVVA NAGASAI\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Users\\JUVVA NAGASAI\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\JUVVA NAGASAI\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\JUVVA NAGASAI\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\JUVVA NAGASAI\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\JUVVA NAGASAI\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\JUVVA NAGASAI\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
